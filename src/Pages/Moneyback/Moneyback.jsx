@@ -7,7 +7,7 @@ const Moneyback = () => {
             <div className="flex ml-60 justify-center h-[50vh] items-center">
                 <div className="w-2/6">
 
-                    <img className='h-60' src={money} alt="" />
+                    <img className='h-60' src="https://www.vectordesign.us/wp-content/uploads/2021/05/100-Money-Back-Guarantee-vector-Design-US-Inc-300x300.webp" alt="" />
 
                 </div>
                 <div className="w-2/3">

@@ -40,7 +40,7 @@ const TwoStatic = () => {
                     </div>
 
                 </div>
-                <div className="w-1/2 -mt-16git a">
+                <div className="w-1/2 -mt-16 ">
 
                     <img className=' h-[500px] ' src="https://www.vectordesign.us/wp-content/uploads/2021/05/home-11-vector-design-us-inc..webp" alt="" />
 
