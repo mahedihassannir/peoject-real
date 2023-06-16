@@ -2,10 +2,10 @@ import sideImage from '../../assets/sideBabber.webp'
 
 const Banner = () => {
     return (
-        <div className=" flex justify-center items-center w-full h-screen">
-            <div className="flex justify-center items-center">
+        <div className=" flex justify-center md:items-center w-full h-screen">
+            <div className="md:flex  justify-center items-center">
 
-                <div className="  w-1/2 flex-wrap  h-full px-4">
+                <div className="  md:w-1/2 flex-wrap  md:h-full px-4">
                     <h1 className="text-4xl leading-snug font-bold">Get the Best <br /> <span className="text-yellow-400">Vector Conversion Services</span> <br /> for your Business</h1>
 
                     <p className="py-3  text-left w-4/5">
@@ -19,7 +19,7 @@ const Banner = () => {
                 {/* image side */}
                 <div className="w-1/2 ">
 
-                    <img className='h-[80vh] w-full' src={sideImage} alt="" />
+                    <img className='  md:h-[80vh] md:w-full' src={sideImage} alt="" />
 
                 </div>
             </div>
